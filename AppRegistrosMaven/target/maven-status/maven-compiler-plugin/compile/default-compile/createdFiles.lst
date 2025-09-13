@@ -1,0 +1,8 @@
+com\tsc\LoginResponse.class
+com\tsc\Application.class
+com\tsc\RegistroResponse.class
+com\tsc\RegistroController.class
+com\tsc\LoginController.class
+com\tsc\GoogleSheetsService.class
+com\tsc\LoginRequest.class
+com\tsc\RegistroRequest.class

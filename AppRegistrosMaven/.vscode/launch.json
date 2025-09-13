@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Launch Spring Boot Application",
+      "mainClass": "com.tsc.Application",
+      "projectName": "AppRegistrosMaven",
+      "preLaunchTask": "build"
+    }
+  ]
+}
